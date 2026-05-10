@@ -81,7 +81,7 @@ export default function HeroSection() {
           className="hero-title text-3xl md:text-5xl font-extrabold text-white leading-tight tracking-tight drop-shadow-lg max-w-3xl"
         >
           {language === "en"
-            ? "Welcome to the Department of Fisheries and Aquatic Resources"
+            ? "Welcome to the Department of Fisheries and Aquatic Resources by sahan"
             : language === "si"
             ? "ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවට සාදරයෙන් පිළිගනිමු"
             : language === "ta"
